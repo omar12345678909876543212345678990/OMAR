@@ -123,7 +123,7 @@
 
   <div class="container">
     <h1 id="title">سعر الذهب في الإمارات</h1>
-    <div id="gold-price" class="price">308.53 AED/g</div>
+    <div id="gold-price" class="price">309.55 AED/g</div>
     <p id="update-time" class="update-time">آخر تحديث: 30 ديسمبر 2024 14:48</p>
 
     <div class="converter">
